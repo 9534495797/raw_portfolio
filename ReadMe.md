@@ -10,7 +10,7 @@
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
-  <a href="https://9534495797.github.io/portfolio_raw/"><strong>➥ Live Demo</strong></a>
+  <a href="https://9534495797.github.io/raw_portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
